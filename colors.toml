@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Encom Green — Hackerman with a soft phosphor-green tint
+
+accent = "#8AF0A8"
+selection = "#1c2a2a"
+muted = "#2a3f3c"
+
+background = "#0A0F0E"
+dark_background = "#070B0A"
+darker_background = "#050807"
+lighter_background = "#121A18"
+
+foreground = "#ddfbe8"
+dark_foreground = "#6a8a80"
+light_foreground = "#b5d8c4"
+bright_foreground = "#ddfbe8"
+
+hyprland_active_border = "rgba(26a269ee) rgba(2ec27eee) 45deg"
+
+red = "#5ee880"
+yellow = "#5ee8cc"
+orange = "#5ee8a3"
+green = "#58da8f"
+cyan = "#7ce8e0"
+blue = "#82b0c8"
+magenta = "#86b8cf"
+brown = "#287b51"
+
+bright_red = "#85ff9d"
+bright_yellow = "#a4ffec"
+bright_green = "#9cf7c2"
+bright_cyan = "#d1fffe"
+bright_blue = "#c4d2ed"
+bright_magenta = "#cddbf4"
